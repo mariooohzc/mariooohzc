@@ -12,7 +12,7 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 - **Description**: Created a Python program using the New York Times best-selling books dataset for gender analysis, implementing phonetic matching with the Fuzzy library (NYSIIS encoding) to identify similar-sounding names and visualizing gender distribution trends using Matplotlib.
 
 ## 🔭 Current Work
-I’m currently working on a Machine Learning Project on an Image Caption Generator Web App using FastAPI.
+I’m currently working on a Machine Learning Project on an Image Caption Generator Web App using FastAPI and PyTorch
 
 ## Things I code with:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![R](https://img.shields.io/badge/-R-000?&logo=R) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas) ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
