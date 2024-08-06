@@ -1,45 +1,21 @@
-# Mario Hanzel (mariooohzc)
+<img width="1834" alt="mario readme github" src="https://github.com/user-attachments/assets/b3cf5a97-6407-49a6-b647-3ee595ef1555">
 
-## 👋 Introduction
+Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science and Analytics, with a minor in Computer Science. I am an AI and tech enthusiast with a passion for learning and experimenting with new technologies.
 
-Hi there! I'm Mario Hanzel, a Year 2 Data Science student at the National University of Singapore, minoring in Computer Science. I'm passionate about leveraging data and technology to solve real-world problems and create innovative solutions. Welcome to my GitHub portfolio!
+## My Personal Projects:
+
+### [Resume Web Application](https://github.com/mariooohzc/rizzume)
+- **Description**: Developed AI-driven resume feedback and job search features using FastAPI and Groq API.
+- **Technologies**: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+
+### [Gender Prediction](https://github.com/mariooohzc/Gender-prediction-DataCamp-Project)
+- **Description**: Created a Python program using the New York Times best-selling books dataset for gender analysis, implementing phonetic matching with the Fuzzy library (NYSIIS encoding) to identify similar-sounding names and visualizing gender distribution trends using Matplotlib.
 
 ## 🔭 Current Work
-I’m currently working on a Machine Learning Project on an Image Caption Generator Web App using FastAPI and PyTorch
+I’m currently working on a Machine Learning Project on an Image Caption Generator Web App using FastAPI.
 
-## 💼 Education
+## Things I code with:
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![R](https://img.shields.io/badge/-R-000?&logo=R) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas) ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
-### National University of Singapore (Aug 2023 - Aug 2026)
-- Bachelor of Science (Hons), Major in Data Science and Analytics, Minor in Computer Science
-- GPA: 4.94/5 (First Class Honours, Highest Distinction)
-- Pre-SU GPA: 4.74
-
-### Dunman High School
-- Higher 3 Mathematics Student (University Level Mathematics)
-- Honourable Mention Award, Singapore Mathematical Olympiad 2020 (Open Section)
-
-## 💡 Skills
-
-- **Programming Languages**: Python, Java, R, SQL, C++, HTML, CSS, JavaScript
-- **Libraries & Frameworks**: PyTorch, FastAPI, Pandas, NumPy, Matplotlib, BeautifulSoup
-- **Tools**: Git, GitHub, Docker, CI/CD, MySQL, Shell
-
-## 🚀 Projects
-
-### Resume Web Application (NUS Orbital Project)
-- Developed AI-driven resume feedback and job search features using FastAPI and Groq API.
-- Implemented web scraping for job search functionality and created a responsive frontend with HTML, CSS, JavaScript, and Bootstrap.
-- Managed CI/CD pipelines with GitHub Actions and Docker, deployed on HuggingFace VPS.
-
-### Gender Prediction
-- Created a Python program using the New York Times best-selling books dataset for gender analysis.
-- Implemented phonetic matching with the Fuzzy library (NYSIIS encoding) to identify similar-sounding names.
-- Visualized gender distribution trends using Matplotlib.
-
-## 📫 Contact
-
-- **Email**: [mario.hanzel@u.nus.edu](mailto:mariohanzel@u.nus.edu)
-- **LinkedIn**: [linkedin.com/in/mario-hanzel-13641621a](https://www.linkedin.com/in/mario-hanzel-13641621a/)
-- **GitHub**: [github.com/mariooohzc](https://github.com/mariooohzc)
-
-
+## Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/mario-hanzel-13641621a/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:mario.hanzel@u.nus.edu)
