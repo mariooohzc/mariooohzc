@@ -23,7 +23,7 @@ I’m currently working on a Machine Learning Project (Image Caption Generator W
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 <br/>
 <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=imageCaptionGeneratorWebApp)]([https://github.com/mariooohzc/rizzume](https://github.com/mariooohzc/imageCaptionGeneratorWebApp))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=imageCaptionGeneratorWebApp)](https://github.com/mariooohzc/imageCaptionGeneratorWebApp)
 
 
 ## Things I code with:
