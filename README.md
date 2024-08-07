@@ -3,8 +3,10 @@
 Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science and Analytics, with a minor in Computer Science. I am an AI and tech enthusiast with a passion for learning and experimenting with new technologies.
 
 ## My Personal Projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=rizzume)](https://github.com/mariooohzc/rizzume)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=Gender-prediction-DataCamp-Project)](https://github.com/mariooohzc/Gender-prediction-DataCamp-Project)
 
-### [Resume Web Application](https://github.com/mariooohzc/rizzume)
+### [Resume Web Application (rizzume)](https://github.com/mariooohzc/rizzume)
 - **Description**: Developed AI-driven resume feedback and job search features using FastAPI and BeautifulSoup for web scraping
 - Implemented Regression testing and CI/CD using PyTest, Docker and GitHub Actions
 - Deployed on HuggingFace VPS
@@ -14,8 +16,15 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 ### [Gender Prediction](https://github.com/mariooohzc/Gender-prediction-DataCamp-Project)
 - **Description**: Created a Python program using the New York Times best-selling books dataset for gender analysis, implementing phonetic matching with the Fuzzy library (NYSIIS encoding) to identify similar-sounding names and visualizing gender distribution trends using Matplotlib.
 
-## 🔭 Current Work
-I’m currently working on a Machine Learning Project on an Image Caption Generator Web App using FastAPI and PyTorch
+## 🔭 Current Work in Progress
+I’m currently working on a Machine Learning Project (Image Caption Generator Web App) using FastAPI and PyTorch
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+<br/>
+<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=imageCaptionGeneratorWebApp)]([https://github.com/mariooohzc/rizzume](https://github.com/mariooohzc/imageCaptionGeneratorWebApp))
+
 
 ## Things I code with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)	
