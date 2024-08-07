@@ -12,19 +12,21 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 - Deployed on HuggingFace VPS
 - **Technologies**: Python, FastAPI, BeautifulSoup, Poetry, Docker, GitHub Actions, HTML, JavaScript, CSS, BootStrap, Pytest
 - Website link: [https://mariooohzc-rizzume.hf.space/](https://mariooohzc-rizzume.hf.space/)
+
+<br/>
   
 ### [Gender Prediction](https://github.com/mariooohzc/Gender-prediction-DataCamp-Project)
 - **Description**: Created a Python program using the New York Times best-selling books dataset for gender analysis, implementing phonetic matching with the Fuzzy library (NYSIIS encoding) to identify similar-sounding names and visualizing gender distribution trends using Matplotlib.
 
 ## 🔭 Current Work in Progress
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=imageCaptionGeneratorWebApp)](https://github.com/mariooohzc/imageCaptionGeneratorWebApp)
+
 I’m currently working on a Machine Learning Project (Image Caption Generator Web App) using FastAPI and PyTorch
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-<br/>
-<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=imageCaptionGeneratorWebApp)](https://github.com/mariooohzc/imageCaptionGeneratorWebApp)
 
+<br/>
 
 ## Things I code with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)	
