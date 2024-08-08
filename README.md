@@ -2,6 +2,8 @@
 
 Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science and Analytics, with a minor in Computer Science. I am an AI and tech enthusiast with a passion for learning and experimenting with new technologies.
 
+<br/>
+
 ## My Personal Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=rizzume)](https://github.com/mariooohzc/rizzume)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=Gender-prediction-DataCamp-Project)](https://github.com/mariooohzc/Gender-prediction-DataCamp-Project)
@@ -19,12 +21,25 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 - **Description**: Created a Python program using the New York Times best-selling books dataset for gender analysis, implementing phonetic matching with the Fuzzy library (NYSIIS encoding) to identify similar-sounding names and visualizing gender distribution trends using Matplotlib.
 
 ## 🔭 Current Work in Progress
+### Image Caption Generator Web Application (Machine Learning Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=imageCaptionGeneratorWebApp)](https://github.com/mariooohzc/imageCaptionGeneratorWebApp)
 
 I’m currently working on a Machine Learning Project (Image Caption Generator Web App) using FastAPI and PyTorch
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+
+<br/>
+
+### Guide on creating Simple Neural Network from scratch
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=Sign-Language-Digits-Deep-Learning)](https://github.com/mariooohzc/Sign-Language-Digits-Deep-Learning)
+
+I'm also currently creating a tutorial on how to create a simple Neural Network from scratch using the Sign Language Digits dataset.\
+I showed mathematical derivation for backward propagation and partial derivative for the cross-entropy loss function.
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 <br/>
 
@@ -46,6 +61,7 @@ I’m currently working on a Machine Learning Project (Image Caption Generator W
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
 
+<br/>
 
 ## Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-hanzel-13641621a/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mario.hanzel@u.nus.edu)
