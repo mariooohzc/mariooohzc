@@ -10,7 +10,7 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 
 ### [Resume Web Application (rizzume)](https://github.com/mariooohzc/rizzume)
 - **Description**: Developed AI-driven resume feedback and job search features using FastAPI and BeautifulSoup for web scraping
-- Implemented Regression testing and CI/CD using PyTest, Docker and GitHub Actions
+- Implemented CI/CD (Continuous Integration Continuous Development), unit testing, integration testing, system testing and regression testing using Pytest, Docker and GitHub Actions
 - Deployed on HuggingFace VPS
 - **Technologies**: Python, FastAPI, BeautifulSoup, Poetry, Docker, GitHub Actions, HTML, JavaScript, CSS, BootStrap, Pytest
 - Website link: [https://mariooohzc-rizzume.hf.space/](https://mariooohzc-rizzume.hf.space/)
@@ -19,6 +19,8 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
   
 ### [Gender Prediction](https://github.com/mariooohzc/Gender-prediction-DataCamp-Project)
 - **Description**: Created a Python program using the New York Times best-selling books dataset for gender analysis, implementing phonetic matching with the Fuzzy library (NYSIIS encoding) to identify similar-sounding names and visualizing gender distribution trends using Matplotlib.
+
+<br/>
 
 ## 🔭 Current Work in Progress
 ### Image Caption Generator Web Application (Machine Learning Project)
