@@ -5,9 +5,9 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 <br/>
 
 ## My Personal Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=rizzume)](https://github.com/mariooohzc/rizzume)\
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=ImageSegmentationDeepLearning)](https://github.com/mariooohzc/ImageSegmentationDeepLearning)\
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=rizzume)](https://github.com/mariooohzc/rizzume)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=Gender-prediction-DataCamp-Project)](https://github.com/mariooohzc/Gender-prediction-DataCamp-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=ImageSegmentationDeepLearning)](https://github.com/mariooohzc/ImageSegmentationDeepLearning)
 
 ### [Resume Web Application (rizzume)](https://github.com/mariooohzc/rizzume)
 - **Description**: Developed AI-driven resume feedback and job search features using FastAPI and BeautifulSoup for web scraping
