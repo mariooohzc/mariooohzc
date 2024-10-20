@@ -5,7 +5,8 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 <br/>
 
 ## My Personal Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=rizzume)](https://github.com/mariooohzc/rizzume)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=rizzume)](https://github.com/mariooohzc/rizzume)\
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=ImageSegmentationDeepLearning)](https://github.com/mariooohzc/ImageSegmentationDeepLearning)\
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=Gender-prediction-DataCamp-Project)](https://github.com/mariooohzc/Gender-prediction-DataCamp-Project)
 
 ### [Resume Web Application (rizzume)](https://github.com/mariooohzc/rizzume)
@@ -15,12 +16,18 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 - **Technologies**: Python, FastAPI, BeautifulSoup, Poetry, Docker, GitHub Actions, HTML, JavaScript, CSS, BootStrap, Pytest
 - Website link: [https://mariooohzc-rizzume.hf.space/](https://mariooohzc-rizzume.hf.space/)
 
-<br/>
+---
+
+### [ImageSegmentationDeepLearning](https://github.com/mariooohzc/ImageSegmentationDeepLearning)
+- **Description**: An image segmentation project using U-Net architecture with PyTorch
+- **Technologies**: Python, PyTorch, U-NET
+
+---
   
 ### [Gender Prediction](https://github.com/mariooohzc/Gender-prediction-DataCamp-Project)
 - **Description**: Created a Python program using the New York Times best-selling books dataset for gender analysis, implementing phonetic matching with the Fuzzy library (NYSIIS encoding) to identify similar-sounding names and visualizing gender distribution trends using Matplotlib.
 
-<br/>
+
 
 ## 🔭 Current Work in Progress
 ### Image Caption Generator Web Application (Machine Learning Project)
