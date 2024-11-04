@@ -30,6 +30,23 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 
 
 ## 🔭 Current Work in Progress
+### 🚧 Private Repositories
+I’m currently working on several projects that are not yet public due to ongoing development and university grading policies. Here’s a brief overview:
+
+- **Convolutional Neural Network (CNN) Image Classification Project**  
+  Collaborating with my friends on a university project focused on CNN-based image classification. In this project:
+  - Conducted extensive research by reading and analyzing papers on pre-trained models, such as **MobileNetV2** and **ResNet50**, to understand their architectures and potential applications.
+  - Performed **data augmentation** and utilized **TensorFlow** and **Keras** for model training.
+  - Planned to continue developing and expanding the project beyond the submission deadline to explore further improvements.
+  - Repository is private because this is a graded project that is still ongoing, but it will be made public once completed by December.
+
+- **Data Visualization Project with R (StackOverflow Data)**  
+  Working on a data visualization project using the **Tidy Tuesday StackOverflow dataset**. This project aims to uncover insights from StackOverflow user data.
+  - Leveraging **ggplot2** and **plotly** for rich, interactive visualizations.
+  - Repository is private because this is a graded project that is still ongoing, but it will be made public once completed by December.
+
+---
+Public Repository:
 ### Image Caption Generator Web Application (Machine Learning Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=imageCaptionGeneratorWebApp)](https://github.com/mariooohzc/imageCaptionGeneratorWebApp)
 
@@ -38,7 +55,7 @@ I’m currently working on a Machine Learning Project (Image Caption Generator W
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 
-<br/>
+---
 
 ### Guide on creating Simple Neural Network from scratch
 
