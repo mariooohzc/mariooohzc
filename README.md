@@ -42,6 +42,7 @@ I’m currently working on several projects that are not yet public due to ongoi
 
 - **Data Visualization Project with R (StackOverflow Data)**  
   Working on a data visualization project using the **Tidy Tuesday StackOverflow dataset**. This project aims to uncover insights from StackOverflow user data.
+  - Doing data cleaning such as joining multiple tables, mutating columns to get desired values, etc.
   - Leveraging **ggplot2** and **plotly** for rich, interactive visualizations.
   - Repository is private because this is a graded project that is still ongoing, but it will be made public once completed by December.
 
