@@ -26,7 +26,6 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
   - Conducted extensive research by reading and analyzing papers on pre-trained models, such as **MobileNetV2** and **ResNet50**, to understand their architectures and potential applications.
   - Performed **data augmentation** and utilized **TensorFlow** and **Keras** for model training.
   - Planned to continue developing and expanding the project beyond the submission deadline to explore further improvements.
-  - Repository is private because this is a graded project that is still ongoing, but it will be made public once completed by December.
 
 ---
 
