@@ -8,7 +8,7 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=rizzume)](https://github.com/mariooohzc/rizzume)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=Gender-prediction-DataCamp-Project)](https://github.com/mariooohzc/Gender-prediction-DataCamp-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=ImageSegmentationDeepLearning)](https://github.com/mariooohzc/ImageSegmentationDeepLearning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=IT1244_Project)](https://github.com/mariooohzc/IT1244_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=ConvolutionNeuralNetworkImageClassificationProject)](https://github.com/mariooohzc/ConvolutionNeuralNetworkImageClassificationProject)
 
 
 ### [Resume Web Application (rizzume)](https://github.com/mariooohzc/rizzume)
