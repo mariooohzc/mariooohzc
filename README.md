@@ -72,16 +72,6 @@ I’m currently working on a Machine Learning Project (Image Caption Generator W
 
 ---
 
-### Guide on creating Simple Neural Network from scratch
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=Sign-Language-Digits-Deep-Learning)](https://github.com/mariooohzc/Sign-Language-Digits-Deep-Learning)
-
-I'm also currently creating a tutorial on how to create a simple Neural Network from scratch using the Sign Language Digits dataset.\
-I showed mathematical derivation for backward propagation and partial derivative for the cross-entropy loss function.
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
 <br/>
 
 ## Tech Stack
