@@ -28,14 +28,15 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
   - Planned to continue developing and expanding the project beyond the submission deadline to explore further improvements.
 
 ---
-- **Data Visualization Project with R (StackOverflow Data)**\
-  🚧 *Repository is still private* 🚧\
+### [Data Visualization Project with R (StackOverflow Data)](https://mariooohzc.github.io/DSA2101_project/)
+ 
   Working on a data visualization project using the **Tidy Tuesday StackOverflow dataset**.\
   This project aims to uncover insights from StackOverflow user data:
   - Doing data cleaning such as joining multiple tables, mutating columns to get desired values, etc.
   - Leveraging **ggplot2** and **plotly** for rich, interactive visualizations.
     
-  Link to project: [Click here](https://mariooohzc.github.io/DSA2101_project/)
+  Link to project: [Click here](https://mariooohzc.github.io/DSA2101_project/)\
+  Link to repo: [Click here](https://github.com/mariooohzc/DSA2101_project)
 
 ---
 
