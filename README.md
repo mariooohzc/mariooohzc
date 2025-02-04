@@ -60,7 +60,7 @@ I’m currently working on a Machine Learning Project (Image Caption Generator W
 You can test the model for inference by going to the : [huggingface link](https://mariooohzc-imagecaptiongenerator.hf.space/)
 
 - **Dataset & Preprocessing**
-  - Used the [Flickr8k Dataset](http://cs.stanford.edu/people/karpathy/deepimagesent/) of images and captions.
+  - Used the Flickr8k Dataset of images and captions.
   - Cleaned and tokenized captions; built a custom `Vocabulary` class.
   - Resized images to 224×224 and normalized with ImageNet mean/std.
 
