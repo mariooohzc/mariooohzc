@@ -53,23 +53,42 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 
 ## 🔭 Current Work in Progress
 ### 🚧 Private Repositories
-Not yet public due to ongoing development and university grading policies. Here’s a brief overview:
-
-- **Data Visualization Project with R (StackOverflow Data)**  
-  Working on a data visualization project using the **Tidy Tuesday StackOverflow dataset**. This project aims to uncover insights from StackOverflow user data.
-  - Doing data cleaning such as joining multiple tables, mutating columns to get desired values, etc.
-  - Leveraging **ggplot2** and **plotly** for rich, interactive visualizations.
-  - Repository is private because this is a graded project that is still ongoing, but it will be made public once completed by December.
-
----
-Public Repository:
 ### Image Caption Generator Web Application (Machine Learning Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariooohzc&repo=imageCaptionGeneratorWebApp)](https://github.com/mariooohzc/imageCaptionGeneratorWebApp)
 
 I’m currently working on a Machine Learning Project (Image Caption Generator Web App) using FastAPI and PyTorch
 
+You can test the model for inference by going to the : [huggingface link](https://mariooohzc-imagecaptiongenerator.hf.space/)
+
+- **Dataset & Preprocessing**
+  - Used the [Flickr8k Dataset](http://cs.stanford.edu/people/karpathy/deepimagesent/) of images and captions.
+  - Cleaned and tokenized captions; built a custom `Vocabulary` class.
+  - Resized images to 224×224 and normalized with ImageNet mean/std.
+
+- **Model Architecture**
+  - **Encoder:** Pretrained VGG16 (final layers removed) + a small FC layer to reduce dimensionality.
+  - **Decoder:** LSTM taking the encoder’s features as its initial state. Uses an Embedding layer and outputs vocab scores.
+
+- **Training**
+  - Trained with CrossEntropyLoss (ignoring `<PAD>`), using Adam optimizer.
+  - Freezed VGG16 convolution layers to speed up and stabilize training.
+  - Logged average epoch loss and saved checkpoints.
+
+- **Inference**
+  - Extracted features once, then performed step-by-step decoding:
+    - Fed each predicted word back into the LSTM until `<EOS>` or max length.
+   
+- **Evaluation** - BLEU Scoring
+  - Used **NLTK's BLEU scoring** to measure the similarity between generated and actual captions.
+  - BLEU score evaluates **n-gram overlap** (1-gram, 2-gram, 3-gram, and 4-gram).
+
+- **Deployment**
+  - Converted the PyTorch model to ONNX.
+  - Deployed on [Hugging Face Spaces](https://huggingface.co/spaces](https://mariooohzc-imagecaptiongenerator.hf.space/) using a Gradio app for live caption generation.
+
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
 ---
 
@@ -92,6 +111,7 @@ I’m currently working on a Machine Learning Project (Image Caption Generator W
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
 <br/>
 
