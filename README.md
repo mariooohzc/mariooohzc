@@ -83,7 +83,7 @@ You can test the model for inference by going to the : [huggingface link](https:
 
 - **Deployment**
   - Converted the PyTorch model to ONNX.
-  - Deployed on [Hugging Face Spaces](https://huggingface.co/spaces](https://mariooohzc-imagecaptiongenerator.hf.space/) using a Gradio app for live caption generation.
+  - Deployed on [Hugging Face Spaces](https://mariooohzc-imagecaptiongenerator.hf.space/) using a Gradio app for live caption generation.
 
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
